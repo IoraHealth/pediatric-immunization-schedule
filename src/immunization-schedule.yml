@@ -130,9 +130,3 @@ immunizations:
   name_matches:
   - 'hpv'
   patientImmunizations: []
-
-- name: 'MCV'
-  total_doses: 2
-  name_matches:
-  - 'mcv'
-  patientImmunizations: []
